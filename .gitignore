@@ -20,6 +20,7 @@ parts/
 sdist/
 data/
 var/
+images/
 *.csv
 wheels/
 *.egg-info/
