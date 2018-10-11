@@ -13,3 +13,10 @@ This set of questions is a great starting point for atleast getting you started 
 > 2. Brain storming or expermienting on different ML models that would perfectly fit for your task.
 
 Today, social media data in form of twitter, facebook and instagram posts have become a potential ground to instantaneously know of the general perception. With ubiquitous presence of smart phones and internet, people have openly started sharing their opinions about everything from reactions to government policies to experience of a delicious cuisine. This has openened up newer avenues for advertisement targetting, getting product feedbacks and even catastrophy discovery really quick. Given this status quo, it makes a lot of sense to have system in place which is capable of ingesting this incessant stream of data without human intervention.
+
+Here is an interesting vizualization created using seaborn.
+<br>
+![alt text](images/PCA-scatter.png)
+<br>
+Here you can easily see the diving line between two kinds of tweets.
+Please check out the [jupyter notebook](https://github.com/gauscian/airline-sentiment-analysis-from-twitter-feeds/blob/master/jupyter_nb.ipynb) to see the accuracy score.
